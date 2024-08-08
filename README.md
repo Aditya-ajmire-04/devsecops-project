@@ -1,7 +1,5 @@
 # CI/CD Pipeline Workflow
 
-![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-Pipeline-blue) ![DevOps](https://img.shields.io/badge/DevOps-Tools-brightgreen) ![License](https://img.shields.io/github/license/your-repo/your-project)
-
 ## Table of Contents
 
 - [Overview](#overview)
